@@ -1,0 +1,12 @@
+div.ChartBackground {
+  color: rgb(221, 226, 231);
+  background-color: rgb(41, 42, 44);
+  height: 100%;
+  box-sizing: border-box;
+  padding: 16px;
+}
+
+div.Chart {
+  height: 100%;
+  box-sizing: border-box;
+}
